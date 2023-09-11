@@ -9,7 +9,9 @@ for DM with ultralight dark photon mediator : labelled as 'DPLM' (dark photon li
 
 (we didn't use DPHM for DPC because DPHM looks so similar with DPLM, my poor eyes can't distinguish)
 
-Important!! We use in-medium effect in the Sun, in both cases: light mediator AND heavy mediator.
+Important details:
+(a). We use in-medium effect in the Sun, in both cases: light mediator AND heavy mediator.
+(b). Simulation sample size in each simulation is 1000. This number is significantly lower than our paper result (to come). Our paper result (to come) uses a much larger sample size 100000. Reason for a lower sample size here is to limit the computation time to an acceptable level. Lower sample size results in less smooth flux curves and less smooth direct detection constraints. This is a random error, brings slight, random fluctuation of the final result of direct detection constraints.
 
 Results are differential fluxes: dPhi/dv versus v
 In each file:
