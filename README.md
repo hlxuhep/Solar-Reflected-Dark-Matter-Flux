@@ -9,6 +9,8 @@ for DM with ultralight dark photon mediator : labelled as 'DPLM' (dark photon li
 
 (we didn't use DPHM for DPC because DPHM looks so similar with DPLM, my poor eyes can't distinguish)
 
+Important!! We use in-medium effect in the Sun, in both cases: light mediator AND heavy mediator.
+
 Results are differential fluxes: dPhi/dv versus v
 In each file:
 first column  :  v        in  km/sec
